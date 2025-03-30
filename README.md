@@ -64,9 +64,7 @@ npm start
 ![login page](https://github.com/user-attachments/assets/4903e803-9253-4212-be4d-cfa14e010fb3)
 
 
-<h3>Register page</h3>
 
-![register page](https://github.com/user-attachments/assets/a2c5f5cb-d03f-46c8-b43a-edd3876e3001)
 
 <h3>User profile page</h3>
 
