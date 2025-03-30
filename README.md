@@ -64,13 +64,6 @@ npm start
 ![login page](https://github.com/user-attachments/assets/4903e803-9253-4212-be4d-cfa14e010fb3)
 
 
-
-
-<h3>User profile page</h3>
-
-![user profile page](https://github.com/user-attachments/assets/5786d46b-29a8-44c2-ad52-3a794ce954c9)
-
-
 <h3>Order history page</h3>
 
 ![order history page](https://github.com/user-attachments/assets/57259617-6c4e-4efd-84ad-961ee0a9b9e4)
